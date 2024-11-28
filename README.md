@@ -46,9 +46,10 @@
 
 8. Flujo de trabajo de ilustración no destructiva
 
-- 
+- Realizar cambios sin modificar la imagen original, lo que significa que facilita ajustes y correcciones en cualquier etapa del proceso. Se basa en el uso de capas separadas para cada elemento o efecto, máscaras de capa para aplicar ajustes localizados y capas de ajuste para modificar colores, brillo o contraste y hacer que salga un buen resultado.
 
-- 
+
+
 
 ### Visita nuestra web
 ##### [Krita] https://krita.org/es/website/
