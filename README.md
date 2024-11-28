@@ -6,6 +6,10 @@
 
 ### Módulos
 1. Familiarización con Krita
+- Las diferencias entre gráficos rasterizados y vectoriales, dos tipos de imágenes digitales fundamentales.
+
+- Entendimiento sobre los modelos de color, incluyendo RGB y HSV, así como conceptos como "bits por canal", "imágenes de alto rango" y códigos de color hexadecimales, como està compuesto el color segun su %.
+
 2. Teoría y conceptos de gráficos por computadora
 3. Herramienta de pincel a mano alzada y trabajo con color
 4. Uso de Herramientas basadas en el motor de pincel
