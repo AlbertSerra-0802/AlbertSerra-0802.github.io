@@ -1,3 +1,4 @@
 # Bienvenidos a mi curso de krita
 
-## Módulos
+## Objetivos en el curso
+### 1. 
