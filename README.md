@@ -22,9 +22,9 @@
 
 4. Uso de Herramientas basadas en el motor de pincel
 
-- 
+- Uso de herramientas que utilizan el motor de pincel para crear formas geométricas.
 
-- 
+- Estas herramientas incluyen la herramienta Línea, la herramienta Rectángulo, la herramienta Elipse, la herramienta Polígono y la herramienta Polilínea.
 
 5. Selección y composición de capas
 
