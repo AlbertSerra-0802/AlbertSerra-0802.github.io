@@ -16,11 +16,39 @@
 - Entendimiento sobre los modelos de color, incluyendo RGB y HSV, así como conceptos como "bits por canal", "imágenes de alto rango" y códigos de color hexadecimales.
 
 3. Herramienta de pincel a mano alzada y trabajo con color
+- Cómo funciona la herramienta principal de dibujo de Krita: el “pincel a mano alzada”.
+
+- Aprender a elegir y gestionar los preajustes de pincel, a utilizar la paleta emergente y a comprender parámetros importantes como el tamaño, la opacidad, el flujo y el modo borrador.
+
 4. Uso de Herramientas basadas en el motor de pincel
+
+- 
+
+- 
+
 5. Selección y composición de capas
+
+- 
+
+- 
+
 6. Técnicas básicas de dibujo y coloreado
+
+- 
+
+- 
+
 7. Pintura digital con sombreado suave
+
+- 
+
+- 
+
 8. Flujo de trabajo de ilustración no destructiva
+
+- 
+
+- 
 
 ### Visita nuestra web
 ##### [Krita] https://krita.org/es/website/
