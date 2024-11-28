@@ -28,9 +28,9 @@
 
 5. Selección y composición de capas
 
-- 
+- En esta parte es fundamental para crear ilustraciones complejas y realizar ajustes no destructivos
 
-- 
+- Conoce las técnicas básicas de la herramienta de selección, el uso de la capa de fondo, los diferentes tipos de capas disponibles en Krita, las propiedades de las capas, el uso de las agrupadas la herencia alfa y los modos de fusión.
 
 6. Técnicas básicas de dibujo y coloreado
 
