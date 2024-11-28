@@ -34,15 +34,15 @@
 
 6. Técnicas básicas de dibujo y coloreado
 
-- 
+- Se pone en práctica lo aprendido en los módulos anteriores mediante la creación de una ilustración de un arma de hacha.
 
-- 
+- Aprender a dibujar, crear líneas de arte suaves, utilizar herramientas de asistencia, añadir colores base con la función de máscara de color, y añadir sombras y luces al estilo de los cómics de superhéroes.
 
 7. Pintura digital con sombreado suave
 
-- 
+- Crear pinturas digitales con un aspecto más realista.
 
-- 
+- Preparación de pinceles, la creación de accesos directos, los conceptos básicos de sombreado, la manipulación de la gradación de color, diferentes técnicas de sombreado, y la creación de una ilustración de calavera para poner en práctica lo aprendido.
 
 8. Flujo de trabajo de ilustración no destructiva
 
