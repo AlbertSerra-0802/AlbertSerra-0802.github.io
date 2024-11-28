@@ -1,3 +1,4 @@
+![Nuestro logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgFyGj14WgL6NUhw_JbrJ9UmPisncUS5U4IQ6d3zAOwcx_hZiXVMCCqmI8_hANHXZWkyk&usqp=CAU)
 # Bienvenidos a mi curso de diseño gràfico con Krita
 
 ## Objetivos del curso
@@ -15,3 +16,4 @@
 
 ### Visita nuestra web
 ##### [Krita] https://krita.org/es/website/
+
