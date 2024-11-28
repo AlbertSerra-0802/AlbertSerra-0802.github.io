@@ -14,3 +14,4 @@
 8. Flujo de trabajo de ilustración no destructiva
 
 ### Visita nuestra web
+##### [Krita] https://krita.org/es/website/
